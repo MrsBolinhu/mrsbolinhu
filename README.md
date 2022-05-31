@@ -9,9 +9,7 @@
 </div>
 
 <div align="center">
-  - 💼 Currently working on GEPEMA/UFVJM's website. The preview is available
-  <a href="https://mrsbolinhu.github.io/gepema/">here</a>. <br><br>
-  - 🔍 I'm also exploring and learning more about Web Development and Frontend.
+  - 💼 Currently working at aiqfome
   
 </div>
 
