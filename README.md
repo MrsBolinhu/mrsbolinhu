@@ -12,18 +12,6 @@
   - 💼 Currently working at aiqfome
   
 </div>
-
----
-<div align="center">
-  <h4>Love working with the following technologies:</h4>
-  <div style="display: inline_block"><br>
-     <img align="center" alt="Lana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Lana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Lana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Lana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-    <img align="center" alt="Lana-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  </div>
-</div>
 <br>
 
   
